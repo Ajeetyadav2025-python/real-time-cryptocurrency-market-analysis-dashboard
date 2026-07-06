@@ -30,9 +30,9 @@ This project is an interactive Power BI dashboard that provides real-time crypto
 
 ## 📊 Dashboard Preview
 
-> *(You will add the dashboard image in the next step.)*
+![Dashboard Preview](Dashboard.png)
 
----
+
 
 ## 🔄 Project Workflow
 
